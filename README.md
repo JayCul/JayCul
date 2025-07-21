@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img height="200" src="https://i.ibb.co/NhQ4Krv/Git-Image-modified.png"  />
+  <img height="200" src="https://i.ibb.co/bYjYcH8/Git-Image-modified-copy.webp"  />
 </div>
 
 ###
