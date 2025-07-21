@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">👋 Hi, I’m @JustinNnaka — a Frontend Engineer & Full-Stack Explorer<br><br>👨‍💻 I specialize in building intuitive user experiences with Angular, React, and React Native  <br>📱 Passionate about mobile development with Flutter and React Native <br>🔐 Currently mastering the art of scalable backends using NestJS, Java Spring Boot, and PostgreSQL<br><br>🧠 I’m also exploring Web3 (Solana | Ethereum), connecting dApps with wallets & smart contracts  <br>🛠️ I enjoy building tools and platforms across FinTech, AI, and Tech Hubs <br>🌍 I believe in solving real-world problems from one signal to millions of lines of code<br><br>🤝 Open to collaborations, freelance gigs, and disruptive side hustles  <br>📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/justin-nnaka-4b7700195)</p>
+<p align="left">👋 Hi, I’m @JustinNnaka — a Frontend Engineer & Full-Stack Explorer<br><br>👨‍💻 I specialize in building intuitive user experiences with Angular, React, and React Native  <br>📱 Passionate about mobile development with Flutter and React Native <br>🔐 Currently mastering the art of scalable backends using NestJS, Java Spring Boot, and PostgreSQL<br><br>🧠 I’m also exploring Web3 (Solana | Ethereum), connecting dApps with wallets & smart contracts  <br>🛠️ I enjoy building tools and platforms across FinTech, AI, and Tech Hubs <br>🌍 I believe in solving real-world problems from one signal to millions of lines of code<br><br>🤝 Open to collaborations, freelance gigs, and disruptive side hustles  <br>📫 Let’s connect: <a link="https://www.linkedin.com/in/justin-nnaka-4b7700195">[LinkedIn]</a></p>
 
 ###
 
